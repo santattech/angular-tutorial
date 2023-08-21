@@ -7,4 +7,5 @@
 5. How Input property added?
 6. How property added and passed to component?
 7. Show the property in the browser
-8. 
+8. Adding router
+9. Adding form class and use that 
